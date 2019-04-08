@@ -2,7 +2,8 @@
 
 0 参考资料
 =
-1  [paperswithcode](https://paperswithcode.com/sota)
+1  [paperswithcode](https://paperswithcode.com/sota)<br>
+2  [邱锡鹏-神经网络与深度学习](https://nndl.github.io/)
 
 1 NLP
 =
