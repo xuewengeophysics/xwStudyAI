@@ -22,12 +22,12 @@
 (1) Kaggle：https://www.kaggle.com<br>
 (2) 天池：https://tianchi.aliyun.com/home<br>
 
-4.2 国内其他主要平台
-(1) DataCastle：http://www.pkbigdata.com
-(2) Datafountain：https://www.datafountain.cn
-(3) Biendata：https://www.biendata.com
-(4) AI Challenger：https://challenger.ai
-(5) Kesci：https://www.kesci.com
-(6) FlyAI：https://www.flyai.com/
-(7) DC竞赛：https://www.dcjingsai.com/
-(8) 司法AI挑战赛CAIL2019：http://cail.cipsc.org.cn/
+4.2 国内其他主要平台<br>
+(1) DataCastle：http://www.pkbigdata.com<br>
+(2) Datafountain：https://www.datafountain.cn<br>
+(3) Biendata：https://www.biendata.com<br>
+(4) AI Challenger：https://challenger.ai<br>
+(5) Kesci：https://www.kesci.com<br>
+(6) FlyAI：https://www.flyai.com<br>
+(7) DC竞赛：https://www.dcjingsai.com<br>
+(8) 司法AI挑战赛CAIL2019：http://cail.cipsc.org.cn<br>
