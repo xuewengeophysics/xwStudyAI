@@ -6,5 +6,4 @@
 
 ## 参考资料
 - https://github.com/bojone/ee-2019-baseline
-- https://kexue.fm
-- https://keras.io
+- https://kexue.fm/archives/5409
