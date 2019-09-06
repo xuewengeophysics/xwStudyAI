@@ -3,6 +3,7 @@
 ## 参考资料
 - 参考文献：Berouti, M., Schwartz, M., and Makhoul, J. (1979). Enhancement of speech corrupted by acoustic noise
 - 经典书籍：Philipos C. Loizou - Speech Enhancement_ Theory and Practice
+- 对应代码：https://github.com/xuewengeophysics/xwStudyAI/tree/master/SpeechDenoising/MATLABcode4SpeechEnhancementTheory_and_Practice
 
 - 谱减法语音降噪原理：https://blog.csdn.net/leixiaohua1020/article/details/47276353
 - 谱减法语音降噪的Python实现：https://blog.csdn.net/iTaacy/article/details/60141849
